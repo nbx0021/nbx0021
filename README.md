@@ -5,7 +5,7 @@
  
 🔗 **LinkedIn:** [linkedin.com/in/narendrabhandari21](https://www.linkedin.com/in/narendrabhandari21/)  
 🔗 **GitHub:** [github.com/nbx0021](https://github.com/nbx0021)  
-🌐 **Portfolio:** [Visit My Portfolio](https://codebasics.io/portfolio/Narendra-Bhandari)  
+🌐 **Portfolio:** [Visit My Portfolio](https://nbx0021.github.io/narendrabhandari.github.io/)  
 
 ---
 
